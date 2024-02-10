@@ -1,0 +1,36 @@
+.Container {
+  display: flex;
+gap: 15px;
+justify-content: center;
+}
+
+.Container h1{
+font-size: 8vw;
+font-family: Poppins;
+font-weight: 700;
+padding-bottom: 0px; 
+margin-right: 10px;
+align-self: center;
+margin-bottom: 0px;
+}
+.Container img{
+  width: 50vw;
+
+}
+.button{
+  background-color: black;
+  color: white;
+  font-size: 3vw;
+  border-radius: 5px;
+  padding: 10px 18px 10px 18px ;
+margin-left: 200px;
+
+margin-right: 10px;
+}
+.Container2 {
+  display: flex;
+  flex-direction: column;
+justify-content: center;
+
+
+}
